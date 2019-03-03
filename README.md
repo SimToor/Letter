@@ -12,28 +12,28 @@ HTML Assessment 1 - MDN
 <body>
 <header>
 <div class="sender-column">
-<pre>
+
 <address>
-<strong>Dr. Eleanor Gaye</strong>
-Awesome Science faculty
-University of Awesome
-Bobtown, CA 99999,
-USA
-<strong>Tel</strong>: 123-456-7890
-<strong>Email</strong>: no_reply@example.com
+<strong>Dr. Eleanor Gaye</strong><br>
+Awesome Science faculty<br>
+University of Awesome<br>
+Bobtown, CA 99999,<br>
+USA<br>
+<strong>Tel</strong>: 123-456-7890<br>
+<strong>Email</strong>: no_reply@example.com<br>
 </address>
 <p>20 January 2016</p>
-</pre>
+
 </div>
 
-<pre>
+
 <address>
-<strong>Miss Eileen Dover</strong>
-4321 Cliff Top Edge
-Dover, CT9 XXX
-UK
+<strong>Miss Eileen Dover</strong><br>
+4321 Cliff Top Edge<br>
+Dover, CT9 XXX<br>
+UK<br>
 </address>
-</pre>
+
 </header>
 
 <main>
@@ -86,10 +86,10 @@ UK
 </dl>
 <p>For more of my research, see my <a href="#">exotic dance research page</a>.</p>
 </main>
-<footer>
-<p>Yours sincerely,</p>
-<author>Dr Eleanor Gaye</author>
 
+<p>Yours sincerely,<p>
+<p>Dr Eleanor Gaye</p>
+<footer>
 <p>University of Awesome motto: "Be awesome to each other." -- <em>Bill S Preston, <abbr title="Esquire">Esq</abbr></em></p>
 
 </footer>
